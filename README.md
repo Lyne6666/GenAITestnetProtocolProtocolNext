@@ -1,2 +1,1 @@
-# GenAITestnetProtocolProtocolNext
-Advanced GenAITestnetProtocolProtocolNext project
+.
