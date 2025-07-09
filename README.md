@@ -1,0 +1,2 @@
+# GenAITestnetProtocolProtocolNext
+Advanced GenAITestnetProtocolProtocolNext project
